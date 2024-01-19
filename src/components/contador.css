@@ -1,0 +1,23 @@
+.contador {
+    font-style: oblique;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  .estado{
+    font-style: italic;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .boton {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    font-style: initial;
+    background-color: #d873e4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
